@@ -1,0 +1,24 @@
+8 Domains of CISSP
+
+1. Security and Risk Management: This is about understanding how to protect information and manage risks. It's like knowing how to create rules and follow them to keep things safe.
+
+2. Asset Security: This is about taking care of things that are valuable, like secret information or important files. It's like keeping your special toys or treasures in a secure place.
+These include physical and digital assets like hardware and private documents
+
+3. Security Architecture and Engineering: This is about building strong and safe systems. It's like creating a castle with strong walls and doors to keep the bad guys out.
+
+4. Communication and Network Security: This is about making sure messages and information are sent and received securely. It's like having a secret code or using a special lock to keep messages safe from people who shouldn't see them.
+#Does this also include a track record of whoever connects to the network?
+
+5. Identity and Access Management (IAM): This is about managing who can access certain things. It's like having a special key or password to enter a secret clubhouse, and only the right people have the key or know the password.
+#Making sure people are only part of groups they need and only have access to the parts of information they require
+#Is this also for passwords like making sure they are changed every 3 months and/or longer than 16 characters
+
+6. Security Assessment and Testing: This is about checking if everything is safe and finding any weaknesses. It's like playing a game where you pretend to be a spy, trying to find hidden clues or secret passages.
+definitely where pen testing comes under
+
+7. Security Operations: This is about keeping things safe and responding to any problems. It's like having security guards who watch over a building and quickly take action if they see anything suspicious.
+xdr and edr? Soc center?
+
+8. Software Development Security: This is about creating and building software that is secure. It's like making sure that a video game you create doesn't have any bugs or cheats that could be used to break the rules.
+#encrypting java files?
